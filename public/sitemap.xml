@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+<loc>https://boxdelarcher.fr/</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/reglages</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/reglages/reglages_statiques</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/reglages/reglages_dynamiques</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/prepamentale</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/prepamentale/visualisation</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/prepaphysique</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/outils</loc>
+</url>
+<url>
+<loc>https://boxdelarcher.fr/index.php/contact</loc>
+</url>
+</urlset>
